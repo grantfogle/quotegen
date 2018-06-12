@@ -1,0 +1,12 @@
+body {
+	background: #006400;
+}
+
+.jumbotron {
+	height: 550px;
+	padding-top: 100px;
+}
+
+a {
+	color: darkgray;
+}
